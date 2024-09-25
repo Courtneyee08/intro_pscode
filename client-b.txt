@@ -1,4 +1,43 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
+Task B
+1. Set the location of the destination using 4 variables: 
+2. "Destination_north" == (2);
+3. "Destination_east" == (5);
+4. "Destination_south" == (0);
+5. "Destination_west" == (0);
+6. Set player's steps heading North to be stored in a variable called "Steps_north".
+7. Set player's steps heading East to be stored in a variable called "Steps_east".
+8. Set player's steps heading South to be stored in a variable called "Steps_south". 
+9. Set player's steps heading West to be stored in a variable called "Steps_west".
+
+10. If player's response for "Steps_north" < 2; 
+	Print = "Too few number of steps headed North. Try again"; 
+  If player's response for "Steps_north" > 2;
+	Print = "Too many steps headed North. Try again";
+If player's response for "Steps_north" == 2
+	Print ="Correct number of step headed North. Let's head East!" 
+
+11. If player's response for "Steps_east" < 5; 
+	Print = "Too few number of steps headed East. Try again"; 
+  If player's response for "Steps_east" > 5;
+	Print = "Too many steps headed East. Try again";
+If player's response for "Steps_east" == 5;
+	Print ="Correct number of step headed East. Let's head South!" 
+
+12. If player's response for "Steps_south" < 0; 
+	Print = "Too few number of steps headed South. Try again"; 
+  If player's response for "Steps_south" > 0;
+	Print = "Too many steps headed South. Try again";
+If player's response for "Steps_south" == 0;
+	Print ="Correct number of step headed South. Let's head West!" 
+
+13. If player's response for "Steps_west" < 0; 
+	Print = "Too few number of steps headed West. Try again"; 
+  If player's response for "Steps_west" > 0;
+	Print = "Too many steps headed West. Try again";
+If player's response for "Steps_west" == 0;
+	Print = "You've made it to your destination!";
+14. End
 # ------------------------------------------------- #
 

@@ -1,4 +1,20 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
+Task A
+1. Choose a random number between 1 and 10. 
+2. Store the random number in a variable called "Random_number".
+3. Assign "Random_number" to be an integer. 
+4. Print out to Player: "Welcome to Guess the Number Game! Please choose a number between 1 and 10!" 
+5. Store Player's response in a variable called "Player_response". Assign variable to be an integer. 
+6. If "Player_response" = "random_number", Print out: "Congrats! You've guessed the correct number!" You won!".
+7. End Script/Program
+8. If "Player_response" != "random_number", Print out: "Sorry!" You've guessed an incorrect number! You have 2 responses left! Please guess again".
+9. If "Player_response" = "random_number", Print out: "Congrats! You've guessed the correct number!" You won!".
+10. End Script/Program
+11. If "Player_response" != "random_number", Print out: "Sorry!" You've guessed an incorrect number! You have 1 response left!"
+12. If "Player_response" = "random_number", Print out: "Congrats! You've guessed the correct number!" You won!".
+10. End Script/Program
+11. If "Player_response" != "random_number", Print out: "Sorry!" You've guessed an incorrect number! You have 0 responses left! Sorry you lost the Guess the Number Game." 
+12. End Script/Program. 
 # ------------------------------------------------- #
 

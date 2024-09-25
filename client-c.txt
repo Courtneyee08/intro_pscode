@@ -1,4 +1,10 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
+Task C
+1. Count the number of packages, starting at "2" for the first package.
+2. For each package after the first package, increment by 2 each time a package is counted (Since each package contains two items). 
+3. Stop when you get to the 50th package. 
+4. Each time a package is counted, store that number in variable called "ncount".
+5. Print out "ncount" to obtain the total number of items in one case. 
 # ------------------------------------------------- #
 
